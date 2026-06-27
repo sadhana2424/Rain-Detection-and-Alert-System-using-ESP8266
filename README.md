@@ -10,25 +10,16 @@ Display rain status on a web server.
 Learn IoT monitoring using ESP8266.
 
 ## 🛠️ Components Required
-ESP8266 NodeMCU
-Rain Sensor Module
-LED
-220Ω Resistor
-Active Buzzer
-Breadboard
-Jumper Wires
-USB Cable
+ESP8266 NodeMCU,
+Rain Sensor Module,
+LED,
+220Ω Resistor,
+Active Buzzer,
+Breadboard,
+Jumper Wires,
+USB Cable,
 Wi-Fi Connection
 
-## 🔌 Circuit Connections
-Component	ESP8266 Pin
-Rain Sensor DO	D2 (GPIO4)
-LED (+)	D5 (GPIO14)
-Buzzer (+)	D6 (GPIO12)
-Sensor VCC	3.3V
-Sensor GND	GND
-LED (-)	GND (through 220Ω resistor)
-Buzzer (-)	GND
 
 ## ⚙️ Working Principle
 The rain sensor continuously checks for water droplets.
@@ -66,24 +57,24 @@ Rain Detected	ON	ON	🌧️ Rain Detected
 No Rain	OFF	OFF	☀️ No Rain
 
 ## 🌾 Applications
-Smart Agriculture
-Automatic Rain Alert System
-Weather Monitoring
-Home Automation
-IoT Learning Projects
+Smart Agriculture,
+Automatic Rain Alert System,
+Weather Monitoring,
+Home Automation,
+IoT Learning Projects,
 
 ## 🚀 Features
-Real-time Rain Detection
-LED & Buzzer Alerts
-Wi-Fi Enabled
-Live Web Dashboard
-Beginner-Friendly ESP8266 Project
+Real-time Rain Detection,
+LED & Buzzer Alerts,
+Wi-Fi Enabled,
+Live Web Dashboard,
+Beginner-Friendly ESP8266 Project,
 Easy Hardware Setup
 
 ## 💻 Software Used
-Arduino IDE
-ESP8266 Board Package
-HTML
+Arduino IDE,
+ESP8266 Board Package,
+HTML,
 CSS
 
 
