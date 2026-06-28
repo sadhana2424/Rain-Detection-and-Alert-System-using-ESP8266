@@ -52,8 +52,8 @@ Open the IP Address in a web browser.
 Test the rain sensor by adding a few drops of water
 .
 ## 📊 System Status
-Rain Sensor	LED	Buzzer	Web Status
-Rain Detected	ON	ON	🌧️ Rain Detected
+Rain Sensor	LED	Buzzer	Web Status,
+Rain Detected	ON	ON	🌧️ Rain Detected,
 No Rain	OFF	OFF	☀️ No Rain
 
 ## 🌾 Applications
